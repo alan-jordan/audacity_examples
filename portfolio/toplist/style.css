@@ -12,6 +12,17 @@
   max-width: 460px;
 }
 
+.title {
+  background-color: #33BEBE;
+  color: white;
+}
+
 .description {
   max-width: 705px;
+  color: #7C8B88;
+}
+
+.app {
+    display: -webkit-flex;
+    display: flex;
 }
